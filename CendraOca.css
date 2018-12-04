@@ -1,0 +1,69 @@
+table{
+    border-collapse: collapse;
+    background-color: white;
+}
+td{
+    border-style: solid;
+    border-width: 1px;
+    text-align: right;
+    width: 100px;
+    height: 80px;
+    font-size: 20px;
+}
+.oca{
+    background-color: yellow;
+}
+.pont{
+    background-color: blue;
+}
+.posada{
+    background-color: red;
+}
+.pou{
+    background-color: purple;
+}
+.laberint{
+    background-color: saddlebrown;
+}
+.preso{
+    background-color: darkgrey;
+}
+.calavera{
+    background-color: black;
+    color: white;
+}
+.J1, .J2{
+    border-style: solid;
+    border-width: 2px;
+    display: inline;
+    margin-top: 0px;
+}
+.numerodau{
+    display: inline;
+   margin-left: 20px;
+    width: 20%;
+    height: 20px;
+}
+#Començar{
+    background-color: orange;
+}
+#Vermell{
+    background-color: red;
+}
+#Blau{
+    background-color: blue;
+}
+#Negre{
+    background-color: black;
+    color: white;
+}
+#Groc{
+    background-color: yellow;
+}
+#Verd{
+    background-color: green;
+}
+#tirardau{
+    display: none;
+    background-color: orange;
+}
